@@ -1,6 +1,14 @@
-me nome é francieli estou estudando no ensino médio !!
+ ### bem vindos ao meu perfil !!
+
+ meu nome é francieli
+
+ estou estudando no[ alura](https://www.alura.com.br)
+
+ ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 
 
 
-estou estudando no alura 
+
+
+![](https://media.tenor.com/im0NVFmy3kYAAAAi/disney-descendants.gif)
